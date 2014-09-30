@@ -1,0 +1,6 @@
+C:\Users\Виктор\Desktop\WebServicesExam\BullsAndCowsClient\BullsAndCows.Client\BullsAndCows.Client\bin\BullsAndCows.Client.dll.config
+C:\Users\Виктор\Desktop\WebServicesExam\BullsAndCowsClient\BullsAndCows.Client\BullsAndCows.Client\bin\BullsAndCows.Client.dll
+C:\Users\Виктор\Desktop\WebServicesExam\BullsAndCowsClient\BullsAndCows.Client\BullsAndCows.Client\bin\BullsAndCows.Client.pdb
+C:\Users\Виктор\Desktop\WebServicesExam\BullsAndCowsClient\BullsAndCows.Client\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\WebServicesExam\BullsAndCowsClient\BullsAndCows.Client\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.dll
+C:\Users\Виктор\Desktop\WebServicesExam\BullsAndCowsClient\BullsAndCows.Client\BullsAndCows.Client\obj\Debug\BullsAndCows.Client.pdb
